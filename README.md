@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The Portfolio Website project is a comprehensive and customizable template designed for professionals and creatives to create a captivating online portfolio. It serves as a digital showcase of your skills, accomplishments, and experiences, allowing you to make a lasting impression on potential clients, employers, or collaborators.
+This is my personal portfolio website showcasing my projects and skills. It's built using HTML, CSS, and JavaScript.
 
 
 ## Features
